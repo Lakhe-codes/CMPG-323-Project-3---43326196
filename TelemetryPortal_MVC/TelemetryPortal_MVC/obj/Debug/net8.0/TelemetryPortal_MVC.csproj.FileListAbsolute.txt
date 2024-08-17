@@ -534,3 +534,4 @@ C:\Users\Lakhe\OneDrive\Documents\BSc. IT\THIRD YEAR\Semester 2\CMPG323\Project 
 C:\Users\Lakhe\OneDrive\Documents\BSc. IT\THIRD YEAR\Semester 2\CMPG323\Project 3\Option1_TelemetryPortal_MVC\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.pdb
 C:\Users\Lakhe\OneDrive\Documents\BSc. IT\THIRD YEAR\Semester 2\CMPG323\Project 3\Option1_TelemetryPortal_MVC\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.genruntimeconfig.cache
 C:\Users\Lakhe\OneDrive\Documents\BSc. IT\THIRD YEAR\Semester 2\CMPG323\Project 3\Option1_TelemetryPortal_MVC\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\ref\TelemetryPortal_MVC.dll
+C:\Users\Lakhe\OneDrive\Documents\BSc. IT\THIRD YEAR\Semester 2\CMPG323\Project 3\Option1_TelemetryPortal_MVC\TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Debug\net8.0\TelemetryPortal_MVC.sourcelink.json
