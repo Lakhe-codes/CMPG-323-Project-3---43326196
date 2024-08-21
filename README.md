@@ -13,6 +13,7 @@ Upon signing in:
 
 The Clients View:
 Retreives a list of existing clients and their details.
+
 The user can perform CRUD operations on the clients:
 - These include creating new clients,
 - Updating the details of can existing client,
@@ -20,6 +21,7 @@ The user can perform CRUD operations on the clients:
 
 The Projects View:
 Retreives a list of existing projects and their details.
+
 The user can perform CRUD operations on the projects:
 - These include creating new projects,
 - Updating the details of can existing projects,
