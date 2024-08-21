@@ -2,7 +2,9 @@
 
 ### How to Use The Web App
 The web application can accessed via the site: htttps://20240817230242.azurewebsites.net
+
 The home page requires a new user to register and old users to log in.
+
 Upon signing in:
 - The user will have the option editing their profile.
 - Viewing clients.
