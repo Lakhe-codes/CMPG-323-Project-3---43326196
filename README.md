@@ -1,7 +1,7 @@
 # CMPG-323-Project-3---43326196
 
 ### How to Use The Web App
-The web application can accessed via the site: htttps://20240817230242.azurewebsites.net
+The web application can be accessed via the url: htttps://20240817230242.azurewebsites.net
 
 The home page requires a new user to register and old users to log in.
 
