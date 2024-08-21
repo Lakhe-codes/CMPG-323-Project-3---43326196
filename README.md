@@ -12,6 +12,7 @@ Upon signing in:
 - And logging out.
 
 The Clients View:
+
 Retreives a list of existing clients and their details.
 
 The user can perform CRUD operations on the clients:
@@ -20,6 +21,7 @@ The user can perform CRUD operations on the clients:
 - Deleting existing clients.
 
 The Projects View:
+
 Retreives a list of existing projects and their details.
 
 The user can perform CRUD operations on the projects:
