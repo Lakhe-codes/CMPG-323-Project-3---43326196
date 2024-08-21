@@ -6,7 +6,7 @@ The web application can accessed via the site: htttps://20240817230242.azurewebs
 The home page requires a new user to register and old users to log in.
 
 Upon signing in:
-- The user will have the option editing their profile.
+- The user will have the option editing their profile,
 - Viewing clients.
 - Viewing projects.
 - And logging out.
@@ -14,15 +14,15 @@ Upon signing in:
 The Clients View:
 Retreives a list of existing clients and their details.
 The user can perform CRUD operations on the clients:
-- These include creating new clients.
-- Updating the details of can existing client.
+- These include creating new clients,
+- Updating the details of can existing client,
 - Deleting existing clients.
 
 The Projects View:
 Retreives a list of existing projects and their details.
 The user can perform CRUD operations on the projects:
-- These include creating new projects.
-- Updating the details of can existing projects.
+- These include creating new projects,
+- Updating the details of can existing projects,
 - Deleting existing projects.
 
 #### The Home Page:
